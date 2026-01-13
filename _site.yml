@@ -8,8 +8,6 @@ navbar:
       href: Research.html
     - text: "Teaching"
       href: Teaching.html
-    - text: "CV"
-      href: CV.html
       
 output_dir: "docs"
 output:
