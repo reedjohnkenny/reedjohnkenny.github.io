@@ -1,8 +1,0 @@
----
-title: "projects"
----
-
-
-Juncus backbone phylogeny
-
-Pop gen of Juncus
