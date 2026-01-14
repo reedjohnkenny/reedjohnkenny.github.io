@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Curriculum Vitae</title>
+
+<script src="site_libs/header-attrs-2.30/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Reed Kenny</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="Research.html">Research</a>
+</li>
+<li>
+  <a href="Teaching.html">Teaching</a>
+</li>
+<li>
+  <a href="CV.html">CV</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Curriculum Vitae</h1>
+
+</div>
+
+
+<div id="reed-j.-kenny" class="section level2">
+<h2>Reed J. Kenny</h2>
+<p>Urban Forest Institute 1352 Pacific St.  San Luis Obispo, CA <a
+href="mailto:rekenny@calpoly.edu"
+class="email">rekenny@calpoly.edu</a></p>
+<hr />
+<div id="education" class="section level3">
+<h3>Education</h3>
+<p><strong>Ph.D. Ecology Graduate Group (2020-2025)</strong>, University
+of California Davis Major Advisor: Dan Potter</p>
+<p><strong>M.S. Biology (2018-2020)</strong>, Cal Poly San Luis Obispo
+<em>A Floristic Study of the Cal Poly Swanton Pacific Ranch, Davenport
+CA</em> Major Advisors: Dr. Matt Ritter, Dr. Jenn Yost</p>
+<p><strong>B.S. Plant Sciences (2013-2017)</strong>, University of
+California Santa Cruz Magna Cum Laude and Highest Honors in the Major
+Research Advisor: Dr. Michael Loik</p>
+<hr />
+</div>
+<div id="professional-experience" class="section level3">
+<h3>Professional Experience</h3>
+<p><strong>Postdoctoral Researcher</strong> | January 2025-Present Urban
+Forest Institute, 1352 Pacific St, San Luis Obispo CA</p>
+<p>Duties: Conduct research on issues relating to urban forestry in
+California. Prepare academic and professional publications and
+presentations.</p>
+<p><strong>Botanist (GS7)</strong> | April-September 2018 US Forest
+Service, 631 Coyote St, Nevada City CA</p>
+<p>Duties: Conduct floristic surveys on US Forest Service lands in
+Nevada county CA. Identify and map rare plants using Arc Collector.
+Document rare plant populations for NEPA analysis.</p>
+<p><strong>Vegetation Crew Lead</strong> | April-August 2017 Eastern
+Nevada Landscape Coalition, 1500 F. Ave Ely NV</p>
+<p>Duties: Lead a crew of two in post fire vegetation surveys. Protocols
+involved plant ID and soil classification.</p>
+<p><strong>Student Assistant</strong> | May 2014 – March 2017 UCSC
+Arboretum, 1156 High St. Santa Cruz CA</p>
+<p>Duties: Maintenance of maritime chaparral garden, seed and cutting
+propagation, supervising interns and student workers, collecting seeds
+and cuttings in the field, cleaning and banking seeds, outplanting, and
+invasive weed control.</p>
+<p><strong>Botanist (GS5)</strong> | May-September 2015 US Forest
+Service, 631 Coyote St, Nevada City CA</p>
+<p>Duties: Conduct floristic surveys on US Forest Service lands in
+Plumas county CA. Identify and map rare plants using Trimble GPS. Assist
+with GIS and data management.</p>
+<hr />
+</div>
+<div id="scholarships-and-awards" class="section level3">
+<h3>Scholarships and Awards</h3>
+<table>
+<colgroup>
+<col width="46%" />
+<col width="53%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Year</th>
+<th>Award</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2024</td>
+<td>UC Davis Jastro &amp; Shields Award ($1,995)</td>
+</tr>
+<tr class="even">
+<td>2022</td>
+<td>UC Davis Jastro &amp; Shields Award ($3,000)</td>
+</tr>
+<tr class="odd">
+<td>2022</td>
+<td>Santa Clara Valley CNPS Award ($1,500)</td>
+</tr>
+<tr class="even">
+<td>2021</td>
+<td>California Native Plant Society Award ($600)</td>
+</tr>
+<tr class="odd">
+<td>2021</td>
+<td>Northern California Botanists Society Grant ($1,000)</td>
+</tr>
+<tr class="even">
+<td>2021</td>
+<td>Davis Botanical Society Grant ($2,760)</td>
+</tr>
+<tr class="odd">
+<td>2020</td>
+<td>UC Davis Plant Sciences Fellowship ($70,000)</td>
+</tr>
+<tr class="even">
+<td>2020</td>
+<td>UC Davis Ecology Grad Group Fellowship ($50,722)</td>
+</tr>
+<tr class="odd">
+<td>2019</td>
+<td>David and Frieda Wertmann Scholarship, Cal Poly San Luis Obispo
+($11,000)</td>
+</tr>
+<tr class="even">
+<td>2019</td>
+<td>San Luis Obispo CNPS McLeod Scholarship ($500)</td>
+</tr>
+<tr class="odd">
+<td>2017</td>
+<td>Koret Research Scholarship, UC Santa Cruz ($2,000)</td>
+</tr>
+</tbody>
+</table>
+<hr />
+</div>
+<div id="publications" class="section level3">
+<h3>Publications</h3>
+<p>Kenny, R., Zaveska-Drabkova, L., Potter, D. (In Review) Phylogenetic
+Systematics of Juncaceae. <em>American Journal of Botany</em>.</p>
+<p>Kenny, R., Potter, D. (In Review) Gene Flow Blurs Species Boundaries
+in the <em>Juncus ensifolius – saximontanus</em> (Poales: Juncaceae)
+Species Complex. <em>Systematic Botany</em>.</p>
+<p>Kenny, R., McMahan, W., Ayres, D., Meyer, V., Grotkopp, G., Still,
+S., Potter, D. (2025) Investigating putative hybrids of
+<em>Fremontodendron decumbens</em> and <em>F. californicum</em> in the
+Sierra foothills. <em>Madroño</em>.</p>
+<p>Kenny, R., West, J.A., Neubauer, D., Yost, J.M., Grossenbacher, D.,
+Ritter, M. (2023) A Floristic Study of Swanton Pacific Ranch, Santa Cruz
+County, California. <em>Madroño</em>.</p>
+<p>Kenny, R., West, J. A., Johnson, H., Yost, J. M., Ritter, M. (2022) A
+New Combination in <em>Sanicula crassicaulis</em> (Apiaceae).
+<em>Madroño</em>.</p>
+<p>Kenny, R. (2020) Book Review: Plants of Northern California, a Field
+Guide to Plants West of the Sierra Nevada. <em>Madroño</em>.</p>
+<hr />
+</div>
+<div id="professional-presentations" class="section level3">
+<h3>Professional Presentations</h3>
+<p>Kenny, R, J. Yost, M. Ritter. 2025. Online tools for every arborist
+and urban forester. Partners in Urban Forestry. Henderson, NV.</p>
+<p>Kenny, R, D. Potter. 2024. Gene Flow Blurs Species Boundaries in the
+<em>Juncus ensifolius – saximontanus</em> (Poales: Juncaceae) Species
+Complex. California Botanical Society Graduate Research Symposium. San
+Luis Obispo, CA.</p>
+<p>Kenny, R., W. McMahan, D. Ayres, V. Meyer, G. Grotkopp, S. Still, D.
+Potter. 2024. Investigating putative hybrids of <em>Fremontodendron
+decumbens</em> and <em>F. californicum</em> in the Sierra foothills.
+Northern California Botanists Symposium. Chico, CA.</p>
+<p>Kenny, R., L. Zaveska-Drabkova, D. Potter. 2024. Systematics of
+Juncaceae: phylogenetic relationships inferred from hyb-seq data.
+International Botanical Congress. Madrid, Spain.</p>
+<p>Kenny, R. 2022. Phylogenetics of Juncaceae. California Native Plant
+Society Conference. San Jose CA.</p>
+<p>Kenny, R. 2022. Systematics of Juncaceae. California Native Plant
+Society Santa Clara Chapter Meeting. Virtual.</p>
+<p>Hazelquist, C., C. M. Guillliams, K. Hasenstab-Lehman, R. Kenny, W.
+Boes. 2021. Using high-throughput DNA sequence data to infer the
+phylogeny of <em>Lewisia</em> (Montiaceae) and evaluate a potentially
+new species from the Sierra Nevada foothills. Southern California
+Botanists Society Conference. Virtual. Poster.</p>
+<p>Kenny, R., M. Ritter, J. Yost. 2019. A Floristic Study of Halter
+Ranch. California Native Plant Society San Luis Obispo Chapter Meeting.
+San Luis Obispo CA.</p>
+<p>Kenny, R., M. Ritter, J. Yost. 2019. Traversing Swanton, A
+multigenerational floristic study of the Cal Poly Swanton Ranch.
+California Botanical Society Student Symposium. San Luis Obispo CA.</p>
+<p>Kenny, R. and Loik, M. 2017. Summer root and soil water distribution
+under annual grasses and <em>Stipa pulchra</em>. Northern California
+Botanists Symposium. Chico CA. Poster.</p>
+<hr />
+</div>
+<div id="teaching" class="section level3">
+<h3>Teaching</h3>
+<p><strong>UC Davis</strong></p>
+<ul>
+<li>Angiosperm Systematics (PLS/PLB 127) 30 students — Spring 2024</li>
+<li>California Floristics (PLB 102) 30 students — Spring 2021, 2022,
+2023</li>
+<li>Evolution of the Human Life Cycle (ANT 15) 20 students — Fall
+2023</li>
+<li>Environmental Plants (ENH 06) 20 students — Fall 2021</li>
+</ul>
+<p><strong>Cal Poly, San Luis Obispo</strong></p>
+<ul>
+<li>Introductory Botany Lab (BOT 121L) 24 students — Fall 2018,
+2019</li>
+<li>Plant Diversity and Ecology Lab (BIO 114L) 20 students — Winter
+2019, 2020, Spring 2020</li>
+</ul>
+<p><strong>UC Santa Cruz</strong></p>
+<ul>
+<li>Systematic Botany of Flowering Plants Lab (BIOE 117L) 25 students —
+Winter 2017</li>
+</ul>
+<hr />
+</div>
+<div id="mentoring" class="section level3">
+<h3>Mentoring</h3>
+<p><em>Projects conducted and presented by undergraduates (*denotes
+undergraduate mentored)</em></p>
+<p>T. Buchloh*, S. Farrow*, C. Dorion*, R. Kenny, M. Ritter. J. Yost.
+2019. Measuring and Monitoring the Vegetation of the Scott Creek Marsh.
+Northern California Botanists Symposium. Chico CA.</p>
+<p>T. Buchloh*, R. Kenny, M. Ritter, J. Yost. 2019. Scott Creek Marsh
+Vegetation Survey. Biology Frost Summer Research Symposium. San Luis
+Obispo CA.</p>
+<p>H. Johnson*, R. Kenny, M. Ritter, J. Yost. 2019. An Investigation of
+Speciation in <em>Sanicula crassicaulis</em>. Biology Frost Summer
+Research Symposium. San Luis Obispo CA.</p>
+<hr />
+</div>
+<div id="relevant-coursework" class="section level3">
+<h3>Relevant Coursework</h3>
+<p><em>(* indicates graduate course)</em></p>
+<p><strong>UC Davis:</strong> Ecological Genetics and Genomics*, Issues
+in Conservation Biology*, Conservation Genomics Seminar*</p>
+<p><strong>Cal Poly San Luis Obispo:</strong> Molecular and Cellular
+Biology and Lab*, Biogeography, Field Botany, Proposal Writing for
+Biological Research*, Plant Anatomy and Lab, Applied Experimental
+Design*, Population Biology*, Advanced Leaf Morphology Seminar*, Climate
+Change Impacts on Species Distributions Seminar*</p>
+<p><strong>UC Santa Cruz:</strong> Systematic Botany and Lab, Ecology,
+GIS and Lab, Plant Ecology, Ecology and Conservation in Practice, Plant
+Physiology, Statistics for Biology and Lab, Soils and Plant Nutrition,
+Genetics</p>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

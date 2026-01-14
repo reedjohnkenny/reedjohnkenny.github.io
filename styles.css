@@ -1,0 +1,64 @@
+/* Page title with underline */
+.title {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 15px;
+}
+
+/* Section heading spacing */
+h3 {
+  margin-top: 50px;
+}
+
+/* Two-column layout for home page */
+.home-container {
+  display: flex;
+  flex-direction: row;
+  gap: 0;
+  margin-top: 20px;
+}
+
+.home-left {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-right: 30px;
+  border-right: 1px solid #ddd;
+}
+
+.home-left img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.home-left .page-title {
+  margin-top: 15px;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.home-right {
+  flex: 1;
+  padding-left: 30px;
+}
+
+/* Responsive adjustment for smaller screens */
+@media (max-width: 768px) {
+  .home-container {
+    flex-direction: column;
+  }
+
+  .home-left {
+    border-right: none;
+    border-bottom: 1px solid #ddd;
+    padding-right: 0;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+  }
+
+  .home-right {
+    padding-left: 0;
+  }
+}
