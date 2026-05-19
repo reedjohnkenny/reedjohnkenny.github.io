@@ -71,6 +71,9 @@ Contact: Reed Kenny — [rekenny@calpoly.edu](mailto:rekenny@calpoly.edu)
 <a href="HARCS_images/IMG_1462.jpeg" class="glightbox" data-gallery="harcs"><img src="HARCS_images/IMG_1462.jpeg" alt="HARCS learning bird ID at Sweet Springs preserve"></a>
 <a href="HARCS_images/IMG_1464.jpeg" class="glightbox" data-gallery="harcs"><img src="HARCS_images/IMG_1464.jpeg" alt="HARCS learning bird ID at Sweet Springs preserve"></a>
 <a href="HARCS_images/field_clip.mp4" class="glightbox harcs-video" data-gallery="harcs" data-type="video"><img src="HARCS_images/field_clip_poster.jpg" alt="HARCS camera trap video"><span class="harcs-play"></span></a>
+<a href="HARCS_images/IMG_1470.jpeg" class="glightbox" data-gallery="harcs"><img src="HARCS_images/IMG_1470.jpeg" alt="HARCS touring Cerra Alto Ranch"></a>
+<a href="HARCS_images/IMG_1471.jpeg" class="glightbox" data-gallery="harcs"><img src="HARCS_images/IMG_1471.jpeg" alt="HARCS touring Cerra Alto Ranch"></a>
+<a href="HARCS_images/IMG_1472.jpeg" class="glightbox" data-gallery="harcs"><img src="HARCS_images/IMG_1472.jpeg" alt="HARCS touring Cerra Alto Ranch"></a>
 </div>
 ```
 
