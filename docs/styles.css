@@ -62,3 +62,103 @@ h3 {
     padding-left: 0;
   }
 }
+
+/* HARCS page header (logo + intro side-by-side) */
+.harcs-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.harcs-logo {
+  width: 180px;
+  height: auto;
+  flex-shrink: 0;
+}
+
+.harcs-intro {
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .harcs-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .harcs-logo {
+    width: 140px;
+    align-self: center;
+  }
+}
+
+/* HARCS photo gallery */
+.harcs-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.harcs-gallery a {
+  display: block;
+  overflow: hidden;
+  border-radius: 4px;
+}
+
+.harcs-gallery img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.25s ease;
+}
+
+.harcs-gallery a:hover img {
+  transform: scale(1.04);
+}
+
+.harcs-gallery-hint {
+  font-size: 0.9em;
+  color: #666;
+  font-style: italic;
+  margin-top: 20px;
+  margin-bottom: 4px;
+}
+
+/* Video tile play-button overlay */
+.harcs-gallery a.harcs-video {
+  position: relative;
+}
+
+.harcs-play {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 56px;
+  height: 56px;
+  margin-top: -28px;
+  margin-left: -28px;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.55);
+  pointer-events: none;
+  transition: background 0.2s ease;
+}
+
+.harcs-play::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -10px;
+  margin-left: -6px;
+  border-style: solid;
+  border-width: 10px 0 10px 16px;
+  border-color: transparent transparent transparent #fff;
+}
+
+.harcs-gallery a.harcs-video:hover .harcs-play {
+  background: rgba(0, 0, 0, 0.75);
+}

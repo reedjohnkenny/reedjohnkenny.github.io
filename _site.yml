@@ -8,6 +8,8 @@ navbar:
       href: Research.html
     - text: "Teaching"
       href: Teaching.html
+    - text: "HARCS"
+      href: HARCS.html
     - text: "CV"
       href: CV.html
       
