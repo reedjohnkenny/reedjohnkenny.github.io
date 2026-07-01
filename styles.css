@@ -162,3 +162,49 @@ h3 {
 .harcs-gallery a.harcs-video:hover .harcs-play {
   background: rgba(0, 0, 0, 0.75);
 }
+
+/* HARCS by-the-numbers stats strip */
+.harcs-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.harcs-stat {
+  text-align: center;
+  padding: 20px 12px;
+  background: #f7f7f5;
+  border-radius: 6px;
+}
+
+.harcs-stat-number {
+  font-size: 2.4em;
+  font-weight: 700;
+  color: #2c5f2d;
+  line-height: 1.1;
+}
+
+.harcs-stat-label {
+  margin-top: 6px;
+  font-size: 0.95em;
+  color: #555;
+}
+
+.harcs-stats-note {
+  font-size: 0.85em;
+  color: #777;
+  font-style: italic;
+  text-align: center;
+  margin-top: 10px;
+}
+
+@media (max-width: 768px) {
+  .harcs-stats {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .harcs-stat-number {
+    font-size: 2em;
+  }
+}
