@@ -4,6 +4,21 @@
   padding-bottom: 15px;
 }
 
+/* HARCS navbar tab — distinct background to set it apart */
+.navbar-nav > li > a[href="HARCS.html"] {
+  background-color: #2c5f2d;
+  color: #fff;
+}
+
+.navbar-nav > li > a[href="HARCS.html"]:hover,
+.navbar-nav > li > a[href="HARCS.html"]:focus,
+.navbar-nav > li.active > a[href="HARCS.html"],
+.navbar-nav > li.active > a[href="HARCS.html"]:hover,
+.navbar-nav > li.active > a[href="HARCS.html"]:focus {
+  background-color: #24501f;
+  color: #fff;
+}
+
 /* Section heading spacing */
 h3 {
   margin-top: 50px;
