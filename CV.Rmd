@@ -28,6 +28,12 @@ Research Advisor: Dr. Michael Loik
 
 ### Professional Experience
 
+**Cal Poly HaRCS program coordinator** | December 2025-Present
+Cal Poly Biology Department, 1 Grand Ave, San Luis Obispo CA
+
+Duties: Develop and implement programming for new Cal Poly Halter Ranch Conservation Scholars program. Design a curriculum for the program that includes one quarter of instruction at Cal Poly paired with a summer internship with a conservation partner. Recruit partner organizations, lead the student seminar, and mentor students on independent projects during their internships. 
+
+
 **Postdoctoral Researcher** | January 2025-Present
 Urban Forest Institute, 1352 Pacific St, San Luis Obispo CA
 
@@ -75,9 +81,13 @@ Duties: Conduct floristic surveys on US Forest Service lands in Plumas county CA
 
 ### Publications
 
-Kenny, R., Zaveska-Drabkova, L., Potter, D. (In Review) Phylogenetic Systematics of Juncaceae. *American Journal of Botany*.
+Kenny, R., Potter, D. (In Press) Gene Flow Blurs Species Boundaries in the *Juncus ensifolius – saximontanus* (Poales: Juncaceae) Species Complex. *Systematic Botany*.
 
-Kenny, R., Potter, D. (In Review) Gene Flow Blurs Species Boundaries in the *Juncus ensifolius – saximontanus* (Poales: Juncaceae) Species Complex. *Systematic Botany*.
+Kenny, R., Johns, J., Pawlak, C., Fricker, A., Yost, J., Ritter, M. (2026) Urban trees and structure loss in the 2025 Eaton and Palisades fires. Urban Forests and Urban Greening
+
+Kenny, R., Zaveska-Drabkova, L., Potter, D. (2026) Phylogenetic Systematics of Juncaceae. *American Journal of Botany*.
+
+McMahan, W., Escalona, M., Kenny, R., Marimuthu, P., Nguyen, O., Fairbairn, C., Seligmann, W., Miller, C., Shaffer, H., Still, S., Potter, D. (2026) A genome assembly of the California flannelbush, *Fremontodendron californicum*.  Journal of Heredity 
 
 Kenny, R., McMahan, W., Ayres, D., Meyer, V., Grotkopp, G., Still, S., Potter, D. (2025) Investigating putative hybrids of *Fremontodendron decumbens* and *F. californicum* in the Sierra foothills. *Madroño*.
 
@@ -115,6 +125,13 @@ Kenny, R. and Loik, M. 2017. Summer root and soil water distribution under annua
 
 ### Teaching
 
+**Cal Poly, San Luis Obispo**
+
+- Plant Diveristy end Ecology Lecture and Lab (BIO 1114) 88 students — Fall 2026
+- Conservation Ecology Seminar (BIO 472) 6 students — Spring 2026
+- Introductory Botany Lab (BOT 121L) 24 students — Fall 2018, 2019
+- Plant Diversity and Ecology Lab (BIO 114L) 20 students — Winter 2019, 2020, Spring 2020
+
 **UC Davis**
 
 - Angiosperm Systematics (PLS/PLB 127) 30 students — Spring 2024
@@ -122,10 +139,6 @@ Kenny, R. and Loik, M. 2017. Summer root and soil water distribution under annua
 - Evolution of the Human Life Cycle (ANT 15) 20 students — Fall 2023
 - Environmental Plants (ENH 06) 20 students — Fall 2021
 
-**Cal Poly, San Luis Obispo**
-
-- Introductory Botany Lab (BOT 121L) 24 students — Fall 2018, 2019
-- Plant Diversity and Ecology Lab (BIO 114L) 20 students — Winter 2019, 2020, Spring 2020
 
 **UC Santa Cruz**
 

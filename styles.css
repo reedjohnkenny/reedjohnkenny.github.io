@@ -94,6 +94,32 @@ h3 {
   }
 }
 
+/* HARCS current projects cards */
+.harcs-project {
+  background: #f7f7f5;
+  border-left: 4px solid #2c5f2d;
+  border-radius: 6px;
+  padding: 6px 24px 22px;
+  margin-top: 20px;
+}
+
+.harcs-project h4 {
+  color: #2c5f2d;
+  font-weight: 600;
+  margin-top: 18px;
+  margin-bottom: 4px;
+}
+
+.harcs-project h4 + p {
+  color: #555;
+  font-size: 0.9em;
+  margin-bottom: 12px;
+}
+
+.harcs-project p:last-child {
+  margin-bottom: 0;
+}
+
 /* HARCS photo gallery */
 .harcs-gallery {
   display: grid;
