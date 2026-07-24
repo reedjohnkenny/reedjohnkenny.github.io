@@ -135,6 +135,47 @@ h3 {
   margin-bottom: 0;
 }
 
+/* HARCS project photo (alternating left/right, text wraps around) */
+.harcs-project-img {
+  width: 40%;
+  max-width: 320px;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom: 8px;
+}
+
+.harcs-project-img.left {
+  float: left;
+  margin-right: 22px;
+}
+
+.harcs-project-img.right {
+  float: right;
+  margin-left: 22px;
+}
+
+.harcs-project::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+/* Keep body text in a single column beside the photo (no wrap underneath) */
+.harcs-project-text {
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .harcs-project-img.left,
+  .harcs-project-img.right {
+    float: none;
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 0 14px;
+  }
+}
+
 /* HARCS photo gallery */
 .harcs-gallery {
   display: grid;

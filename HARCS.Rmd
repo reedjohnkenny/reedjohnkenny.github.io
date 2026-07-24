@@ -82,9 +82,15 @@ No prior research experience is required. Scholars come from biology, environmen
 
 *Interns: Finn Torres & Natalie Donnelson — Rana Creek Preserve, The Wildlands Conservancy*
 
+<img src="HARCS_images/IMG_1580.jpeg" alt="Finn and Natalie in the field at Rana Creek Preserve" class="harcs-project-img left">
+
+<div class="harcs-project-text">
+
 Finn and Natalie are working on two major projects at the Rana Creek Preserve, guided by the preserve manager, Kat Hardisty-Cranstone. The first is a rangeland monitoring program that the interns helped to develop and are implementing for the first time this year. The preserve is actively grazed, and the cows were fitted with collars this year to allow for virtual fencing. This allows for greater adaptability to control where and at what intensity the cows are grazing. As this project continues, the monitoring data can be used to determine what grazing strategies are having a positive impact on rangeland health.
 
 The second major project is surveying the riparian areas on the preserve to identify potential areas for installing beaver dam analogs (BDA's) and eventual beaver introductions. BDA's are human made structures that mimic beaver dams and help restore creeks and streams to a healthy condition. By identifying suitable areas and installing BDA's, the preserve will raise groundwater levels, decrease erosion, and create habitat for fish, amphibians, riparian vegetation and eventually, beavers.
+
+</div>
 :::
 
 ::: {.harcs-project}
@@ -92,7 +98,13 @@ The second major project is surveying the riparian areas on the preserve to iden
 
 *Intern: Landon Miller — Scott River Watershed Council*
 
+<img src="HARCS_images/BDA_bear.jpeg" alt="Wildlife camera image of a bear at a BDA site in the Scott River Watershed" class="harcs-project-img right">
+
+<div class="harcs-project-text">
+
 Landon is working with the Scott River Watershed Council on installing BDA's in the Scott River Watershed, located in the Klamath Mountains of Northern California. The council is focusing on installing BDAs in degraded mountain meadows, where the structures will help reduce channel incision and raise the groundwater level, restoring the natural hydrology that makes these meadows home to a huge diversity of native grasses and wildflowers. Landon has placed wildlife cameras at BDA sites, to record wildlife use of the sites before and after the structures are installed. This will help inform how the creation of ponds affects even animals that don't directly live in them.
+
+</div>
 :::
 
 ::: {.harcs-project}
@@ -100,7 +112,13 @@ Landon is working with the Scott River Watershed Council on installing BDA's in 
 
 *Intern: Rowan Campbell — Scott River Watershed Council & CDFW*
 
+<img src="HARCS_images/week3_landon_04.jpeg" alt="Surveying a mountain meadow in the Scott River Watershed" class="harcs-project-img left">
+
+<div class="harcs-project-text">
+
 Rowan is working with SRWC and CDFW to better understand how the Cascades Frog (a candidate species for endangered status) uses mountain meadows. In addition to surveying meadows to assess their ecological health with SRWC, he is collaborating with CDFW to survey meadows for Cascades Frogs. Healthy meadows with intact hydrology are more likely to host shallow ponds that are breeding habitat for Cascades Frogs. Rowan's work may eventually link restoring the hydrology of meadows using tools like BDAs to improved breeding habitat for Cascades Frogs.
+
+</div>
 :::
 
 ::: {.harcs-project}
@@ -108,7 +126,13 @@ Rowan is working with SRWC and CDFW to better understand how the Cascades Frog (
 
 *Interns: Rylyn Jaggar & Rylie Helberg — Bear Paw Preserve, The Wildlands Conservancy*
 
+<img src="HARCS_images/IMG_1616.jpeg" alt="Rylyn and Rylie in the field at Bear Paw Preserve" class="harcs-project-img right">
+
+<div class="harcs-project-text">
+
 Rylyn and Rylie at Bear Paw Preserve are focused on understanding how vegetation management on the preserve impacts wildlife. Bear Paw Preserve was completely burned at high severity in the 2020 El Dorado Fire. The preserve, previously composed of mature Black Oak and Big Cone Douglas Fir woodland, is now dominated by vigorously resprouting shrub species such as Ceanothus and Choke Cherry. Under natural fire regimes, forests would have burned with mixed severity and trees would have only been fully killed in some areas, creating a patchwork of trees and shrubs. While part of the natural regeneration process, when they are too widespread, shrubs can prevent tree seedlings from re-establishing and increase the probability that an area will burn again. The staff at Bear Paw have been able to remove the shrubs in some areas, in an attempt to reduce fire hazard and restore oak trees to the area. Rylyn and Rylie are monitoring a network of wildlife cameras spread throughout the treated and untreated areas, conducting plant surveys, recording bird activity, and measuring soil chemistry, all to assess the impacts and benefits of the vegetation management on the preserve.
+
+</div>
 :::
 
 ::: {.harcs-project}
@@ -116,7 +140,13 @@ Rylyn and Rylie at Bear Paw Preserve are focused on understanding how vegetation
 
 *Intern: Santiago Olvera — Land Conservancy of San Luis Obispo County*
 
+<img src="HARCS_images/pismo_preserve.jpeg" alt="Pismo Preserve, Land Conservancy of San Luis Obispo County" class="harcs-project-img left">
+
+<div class="harcs-project-text">
+
 Santiago is working locally with the Land Conservancy of San Luis Obispo County. He is focused on learning about the process of establishing conservation easements, through helping with baseline documentation of a new easement. He is also shadowing teams working on ecosystem restoration, ecological monitoring, and community outreach.
+
+</div>
 :::
 \
 
