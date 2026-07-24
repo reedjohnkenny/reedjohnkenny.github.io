@@ -13,7 +13,7 @@ output:
 </div>
 <div class="home-right">
 
-I am a postdoctoral researcher at the Urban Forest Institute based in San Luis Obispo California. I am interested in a variety of issues concerning urban trees including how urban trees interact with and are affected by urban conflagrations, urban tree allometry, and species selection for underserved communities. I earned a Master's degree at Cal Poly San Luis Obispo studying the floristics of the central California coast and a Ph.D. at the University of California Davis in the Ecology program, where I studied species relationships in the Juncaceae (Rush family).
+I am currently the Program Coordinator for the newly created Cal Poly San Luis Obispo Halter Ranch Conservation Scholars program and am finishing a postdoctoral researcher position at the Urban Forest Institute. I am broadly interested in biodiversity and natural resource conservation. This is reflected in my research, which includes cataloging plant diversity on working lands, classifying species, and studying the impacts of fire on urban forests. I earned a Master's degree at Cal Poly San Luis Obispo studying the floristics of the central California coast and a Ph.D. at the University of California Davis in the Ecology program, where I studied species relationships in the Juncaceae (Rush family).
 
 </div>
 </div>
