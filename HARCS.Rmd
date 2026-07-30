@@ -48,11 +48,11 @@ No prior research experience is required. Scholars come from biology, environmen
     <div class="harcs-stat-label">Camera trap photos</div>
   </div>
   <div class="harcs-stat">
-    <div class="harcs-stat-number">164</div>
+    <div class="harcs-stat-number">171</div>
     <div class="harcs-stat-label">Species observed</div>
   </div>
   <div class="harcs-stat">
-    <div class="harcs-stat-number">314</div>
+    <div class="harcs-stat-number">334</div>
     <div class="harcs-stat-label">iNaturalist observations</div>
   </div>
   <div class="harcs-stat">
