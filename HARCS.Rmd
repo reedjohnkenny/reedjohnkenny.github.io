@@ -44,15 +44,15 @@ No prior research experience is required. Scholars come from biology, environmen
 ```{=html}
 <div class="harcs-stats">
   <div class="harcs-stat">
-    <div class="harcs-stat-number">13700</div>
+    <div class="harcs-stat-number">128,548</div>
     <div class="harcs-stat-label">Camera trap photos</div>
   </div>
   <div class="harcs-stat">
-    <div class="harcs-stat-number">171</div>
+    <div class="harcs-stat-number">174</div>
     <div class="harcs-stat-label">Species observed</div>
   </div>
   <div class="harcs-stat">
-    <div class="harcs-stat-number">334</div>
+    <div class="harcs-stat-number">342</div>
     <div class="harcs-stat-label">iNaturalist observations</div>
   </div>
   <div class="harcs-stat">
