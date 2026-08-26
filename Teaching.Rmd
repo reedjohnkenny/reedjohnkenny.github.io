@@ -4,16 +4,35 @@ title: "Teaching"
 
 ### Halter Ranch Conservation Scholars Program
 
-I am currently the Director of the Cal Poly Slo Halter Ranch Conservation Scholars (HARCS) program. This is our inaugural year, and we have placed seven students in summer conservation and stewardship internships with our conservation partners. In preparation, I led those students in a quarter long seminar focused on developing conservation oriented skills such as GIS as well as understanding the fundamentals of conservation and ecology through field based activities. See the HARCS page of this website for more information and photos from the field. 
+::: {.figure-section}
 
----
+<figure class="figure-section-img left">
+<img src="site_images/harcs_cohort_2026.jpg" alt="The 2026 Halter Ranch Conservation Scholars cohort standing together under oaks">
+<figcaption>The inaugural 2026 HARCS cohort.</figcaption>
+</figure>
+
+<div class="figure-section-text">
+
+I am currently the Director of the Cal Poly Slo Halter Ranch Conservation Scholars (HARCS) program. This is our inaugural year, and we have placed seven students in summer conservation and stewardship internships with our conservation partners. In preparation, I led those students in a quarter long seminar focused on developing conservation oriented skills such as GIS as well as understanding the fundamentals of conservation and ecology through field based activities. See the HARCS page of this website for more information and photos from the field.
+
+</div>
+:::
 
 ### Plant Diversity and Ecology
 
-I will be the instructor of record for the new semester version of Plant Diversity and Ecology this Fall semester at Cal Poly and am designing new material to fit the longer schedule. Plant Diversity and Ecology is an introduction to plant biology, evolution, and ecology geared towards first year students and non biology majors who are interested in learning more about plants. The course has a strong focus on experiential learning, featuring several field trips around San Luis Obispo County to learn the common plants and plant communities of our diverse flora. The Fall 2026 syllabus is available here. [[PDF]](BIO 1114 F2026 Syllabus.pdf)
+::: {.figure-section}
 
+<figure class="figure-section-img right">
+<img src="site_images/field_learning_black_lake.jpg" alt="Students taking notes beside a coastal lake fringed with rushes and eucalyptus">
+<figcaption>Field-based learning at Black Lake Preserve, San Luis Obispo County.</figcaption>
+</figure>
 
----
+<div class="figure-section-text">
+
+I will be the instructor of record for the new semester version of Plant Diversity and Ecology this Fall semester at Cal Poly and am designing new material to fit the longer schedule. Plant Diversity and Ecology is an introduction to plant biology, evolution, and ecology geared towards first year students and non biology majors who are interested in learning more about plants. The course has a strong focus on experiential learning, featuring several field trips around San Luis Obispo County to learn the common plants and plant communities of our diverse flora. The Fall 2026 syllabus is available here. [[PDF]](BIO_1114_F2026_Syllabus.pdf)
+
+</div>
+:::
 
 ### Other teaching appointments
 

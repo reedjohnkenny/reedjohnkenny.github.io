@@ -2,168 +2,323 @@
 title: "Curriculum Vitae"
 ---
 
-## Reed J. Kenny
+<div class="cv-contact">
+<span class="cv-affil">Department of Biological Sciences, California Polytechnic State University</span><br>
+1 Grand Avenue, San Luis Obispo, CA 93407<br>
+[rekenny@calpoly.edu](mailto:rekenny@calpoly.edu) &nbsp;·&nbsp; ORCID [0000-0002-1234-8413](https://orcid.org/0000-0002-1234-8413)
+<!-- Personal contact details from the PDF, left off the public page. Uncomment if you want them here. -->
+<!-- <br>reedjohnkenny@gmail.com &nbsp;·&nbsp; (707) 601-1596 -->
+</div>
 
-Urban Forest Institute
-1352 Pacific St. 
-San Luis Obispo, CA
-rekenny@calpoly.edu
+<a class="cv-download" href="ReedKennyCV.pdf">Download full CV (PDF)</a>
 
----
+<div class="cv-toc">
+[Education](#education) · [Appointments](#appointments) · [Teaching](#teaching) · [Publications](#peer-reviewed-publications) · [Presentations](#invited-and-outreach-presentations) · [Mentoring](#undergraduate-research-mentored) · [Funding](#external-funding) · [Awards](#fellowships-scholarships-and-awards) · [Expertise](#technical-and-research-expertise) · [Service](#service-and-outreach)
+</div>
 
 ### Education
 
-**Ph.D. Ecology Graduate Group (2020-2025)**, University of California Davis
-Major Advisor: Dan Potter
+<div class="cv-entry">
+<div class="cv-head"><span class="cv-role">Ph.D., Ecology</span><span class="cv-date">2025</span></div>
+<div class="cv-org">University of California, Davis — Ecology Graduate Group (2020–2025)</div>
 
-**M.S. Biology (2018-2020)**, Cal Poly San Luis Obispo
-*A Floristic Study of the Cal Poly Swanton Pacific Ranch, Davenport CA*
-Major Advisors: Dr. Matt Ritter, Dr. Jenn Yost
+Dissertation: *Phylogenetic systematics of Juncaceae and genomic applications in assigning morphologically intermediate individuals to species.* Advisor: Dr. Dan Potter
+</div>
 
-**B.S. Plant Sciences (2013-2017)**, University of California Santa Cruz
-Magna Cum Laude and Highest Honors in the Major
-Research Advisor: Dr. Michael Loik
+<div class="cv-entry">
+<div class="cv-head"><span class="cv-role">M.S., Biology</span><span class="cv-date">2020</span></div>
+<div class="cv-org">California Polytechnic State University, San Luis Obispo (2018–2020)</div>
 
----
+Thesis: *A Floristic Study of the Cal Poly Swanton Pacific Ranch, and a New Combination in Sanicula crassicaulis.* Advisors: Dr. Matt Ritter, Dr. Jenn Yost
+</div>
 
-### Professional Experience
+<div class="cv-entry">
+<div class="cv-head"><span class="cv-role">B.S., Plant Sciences</span><span class="cv-date">2017</span></div>
+<div class="cv-org">University of California, Santa Cruz (2013–2017)</div>
 
-**Cal Poly HaRCS program coordinator** | December 2025-Present
-Cal Poly Biology Department, 1 Grand Ave, San Luis Obispo CA
+*Magna cum laude*; Highest Honors in the Major. Research advisor: Dr. Michael Loik
+</div>
 
-Duties: Develop and implement programming for new Cal Poly Halter Ranch Conservation Scholars program. Design a curriculum for the program that includes one quarter of instruction at Cal Poly paired with a summer internship with a conservation partner. Recruit partner organizations, lead the student seminar, and mentor students on independent projects during their internships. 
+### Appointments
 
+<div class="cv-entry">
+<div class="cv-head"><span class="cv-role">Director, Halter Ranch Conservation Scholars (HARCS) Program</span><span class="cv-date">Dec. 2025–present</span></div>
+<div class="cv-org">Department of Biological Sciences, Cal Poly, San Luis Obispo</div>
 
-**Postdoctoral Researcher** | January 2025-Present
-Urban Forest Institute, 1352 Pacific St, San Luis Obispo CA
+- Designed and now direct a conservation training program funded by a $200,000+ industry gift, pairing a quarter of Cal Poly coursework with a paid summer internship at a partner conservation organization.
+- Recruited and manage a partner network spanning land trusts, tribal co-managers, state agencies, and private landowners; negotiate project scopes and student placements.
+- Lead the associated seminar and mentor scholars on independent field projects; first cohort (seven students, 2026) completed projects on beaver dam analog restoration, virtual fencing, rangeland monitoring, fuels treatment, and wildlife inventory.
+- Manage program budget, donor relations, and expansion, including active discussions with additional agricultural partners and an individual-giving channel.
 
-Duties: Conduct research on issues relating to urban forestry in California. Prepare academic and professional publications and presentations.
+</div>
 
-**Botanist (GS7)** | April-September 2018
-US Forest Service, 631 Coyote St, Nevada City CA
+<div class="cv-entry">
+<div class="cv-head"><span class="cv-role">Lecturer, Department of Biological Sciences</span><span class="cv-date">Mar. 2025–present</span></div>
+<div class="cv-org">Cal Poly, San Luis Obispo</div>
 
-Duties: Conduct floristic surveys on US Forest Service lands in Nevada county CA. Identify and map rare plants using Arc Collector. Document rare plant populations for NEPA analysis.
+- Instructor of record for BIO 1114 Plant Diversity and Ecology (lecture and lab) and BIO 4472 Conservation Ecology Seminar, which I developed for the HARCS program.
 
-**Vegetation Crew Lead** | April-August 2017
-Eastern Nevada Landscape Coalition, 1500 F. Ave Ely NV
+</div>
 
-Duties: Lead a crew of two in post fire vegetation surveys. Protocols involved plant ID and soil classification.
+<div class="cv-entry">
+<div class="cv-head"><span class="cv-role">Postdoctoral Researcher, Urban Forest Institute (UFI)</span><span class="cv-date">Jan. 2025–present</span></div>
+<div class="cv-org">Cal Poly, San Luis Obispo — Supervisor: Matt Ritter</div>
 
-**Student Assistant** | May 2014 – March 2017
-UCSC Arboretum, 1156 High St. Santa Cruz CA
+- Landscape-scale analysis of urban forest structure and wildfire impacts, including a study of urban tree and structure loss across the 2025 Eaton and Palisades fires (published 2026).
+- Develop statewide spatial data products and public-facing tools; present results at professional and practitioner conferences.
 
-Duties: Maintenance of maritime chaparral garden, seed and cutting propagation, supervising interns and student workers, collecting seeds and cuttings in the field, cleaning and banking seeds, outplanting, and invasive weed control.
+</div>
 
-**Botanist (GS5)** | May-September 2015
-US Forest Service, 631 Coyote St, Nevada City CA
+<div class="cv-entry">
+<div class="cv-head"><span class="cv-role">Botanist (GS-7), Tahoe National Forest</span><span class="cv-date">Apr.–Sept. 2018</span></div>
+<div class="cv-org">USDA Forest Service, Nevada City, California</div>
 
-Duties: Conduct floristic surveys on US Forest Service lands in Plumas county CA. Identify and map rare plants using Trimble GPS. Assist with GIS and data management.
+- Conducted floristic surveys on National Forest System lands; identified and mapped rare plant populations in ArcGIS Collector and documented occurrences for NEPA analysis.
 
----
+</div>
 
-### Scholarships and Awards
+<div class="cv-entry">
+<div class="cv-head"><span class="cv-role">Vegetation Crew Lead</span><span class="cv-date">Apr.–Aug. 2017</span></div>
+<div class="cv-org">Eastern Nevada Landscape Coalition, Ely, Nevada</div>
 
-| Year | Award |
-|------|-------|
-| 2024 | UC Davis Jastro & Shields Award ($1,995) |
-| 2022 | UC Davis Jastro & Shields Award ($3,000) |
-| 2022 | Santa Clara Valley CNPS Award ($1,500) |
-| 2021 | California Native Plant Society Award ($600) |
-| 2021 | Northern California Botanists Society Grant ($1,000) |
-| 2021 | Davis Botanical Society Grant ($2,760) |
-| 2020 | UC Davis Plant Sciences Fellowship ($70,000) |
-| 2020 | UC Davis Ecology Grad Group Fellowship ($50,722) |
-| 2019 | David and Frieda Wertmann Scholarship, Cal Poly San Luis Obispo ($11,000) |
-| 2019 | San Luis Obispo CNPS McLeod Scholarship ($500) |
-| 2017 | Koret Research Scholarship, UC Santa Cruz ($2,000) |
+- Led a two-person crew conducting post-fire vegetation surveys across Great Basin rangelands, including plant identification and soil classification.
 
----
+</div>
 
-### Publications
+<div class="cv-entry">
+<div class="cv-head"><span class="cv-role">Student Assistant, UC Santa Cruz Arboretum</span><span class="cv-date">May 2014–Mar. 2017</span></div>
+<div class="cv-org">University of California, Santa Cruz</div>
 
-Kenny, R., Potter, D. (In Press) Gene Flow Blurs Species Boundaries in the *Juncus ensifolius – saximontanus* (Poales: Juncaceae) Species Complex. *Systematic Botany*.
+- Managed the maritime chaparral collection; supervised interns and student workers; conducted wild seed and cutting collection, seed banking, propagation, outplanting, and invasive plant control.
 
-Kenny, R., Johns, J., Pawlak, C., Fricker, A., Yost, J., Ritter, M. (2026) Urban trees and structure loss in the 2025 Eaton and Palisades fires. Urban Forests and Urban Greening
+</div>
 
-Kenny, R., Zaveska-Drabkova, L., Potter, D. (2026) Phylogenetic Systematics of Juncaceae. *American Journal of Botany*.
+<div class="cv-entry">
+<div class="cv-head"><span class="cv-role">Botanist (GS-5), Plumas National Forest</span><span class="cv-date">May–Sept. 2015</span></div>
+<div class="cv-org">USDA Forest Service, Nevada City, California</div>
 
-McMahan, W., Escalona, M., Kenny, R., Marimuthu, P., Nguyen, O., Fairbairn, C., Seligmann, W., Miller, C., Shaffer, H., Still, S., Potter, D. (2026) A genome assembly of the California flannelbush, *Fremontodendron californicum*.  Journal of Heredity 
+- Conducted floristic surveys and rare plant mapping with Trimble GPS; supported GIS and data management.
 
-Kenny, R., McMahan, W., Ayres, D., Meyer, V., Grotkopp, G., Still, S., Potter, D. (2025) Investigating putative hybrids of *Fremontodendron decumbens* and *F. californicum* in the Sierra foothills. *Madroño*.
-
-Kenny, R., West, J.A., Neubauer, D., Yost, J.M., Grossenbacher, D., Ritter, M. (2023) A Floristic Study of Swanton Pacific Ranch, Santa Cruz County, California. *Madroño*.
-
-Kenny, R., West, J. A., Johnson, H., Yost, J. M., Ritter, M. (2022) A New Combination in *Sanicula crassicaulis* (Apiaceae). *Madroño*.
-
-Kenny, R. (2020) Book Review: Plants of Northern California, a Field Guide to Plants West of the Sierra Nevada. *Madroño*.
-
----
-
-### Professional Presentations
-
-Kenny, R, J. Yost, M. Ritter. 2025. Online tools for every arborist and urban forester. Partners in Urban Forestry. Henderson, NV.
-
-Kenny, R, D. Potter. 2024. Gene Flow Blurs Species Boundaries in the *Juncus ensifolius – saximontanus* (Poales: Juncaceae) Species Complex. California Botanical Society Graduate Research Symposium. San Luis Obispo, CA.
-
-Kenny, R., W. McMahan, D. Ayres, V. Meyer, G. Grotkopp, S. Still, D. Potter. 2024. Investigating putative hybrids of *Fremontodendron decumbens* and *F. californicum* in the Sierra foothills. Northern California Botanists Symposium. Chico, CA.
-
-Kenny, R., L. Zaveska-Drabkova, D. Potter. 2024. Systematics of Juncaceae: phylogenetic relationships inferred from hyb-seq data. International Botanical Congress. Madrid, Spain.
-
-Kenny, R. 2022. Phylogenetics of Juncaceae. California Native Plant Society Conference. San Jose CA.
-
-Kenny, R. 2022. Systematics of Juncaceae. California Native Plant Society Santa Clara Chapter Meeting. Virtual.
-
-Hazelquist, C., C. M. Guillliams, K. Hasenstab-Lehman, R. Kenny, W. Boes. 2021. Using high-throughput DNA sequence data to infer the phylogeny of *Lewisia* (Montiaceae) and evaluate a potentially new species from the Sierra Nevada foothills. Southern California Botanists Society Conference. Virtual. Poster.
-
-Kenny, R., M. Ritter, J. Yost. 2019. A Floristic Study of Halter Ranch. California Native Plant Society San Luis Obispo Chapter Meeting. San Luis Obispo CA.
-
-Kenny, R., M. Ritter, J. Yost. 2019. Traversing Swanton, A multigenerational floristic study of the Cal Poly Swanton Ranch. California Botanical Society Student Symposium. San Luis Obispo CA.
-
-Kenny, R. and Loik, M. 2017. Summer root and soil water distribution under annual grasses and *Stipa pulchra*. Northern California Botanists Symposium. Chico CA. Poster.
-
----
+</div>
 
 ### Teaching
 
-**Cal Poly, San Luis Obispo**
+<div class="cv-subhead">Cal Poly, San Luis Obispo</div>
+<div class="cv-rows">
+<div class="cv-row"><span><em>Instructor of record</em> — Plant Diversity and Ecology, 120 students</span><span class="cv-date">Fall 2026</span></div>
+<div class="cv-row"><span><em>Instructor of record</em> — Conservation Ecology and Practice Seminar, 7 students</span><span class="cv-date">Spring 2026</span></div>
+<div class="cv-row"><span><em>Teaching Assistant</em> — Introductory Botany Lab, 24 students</span><span class="cv-date">Fall 2018, 2019</span></div>
+<div class="cv-row"><span><em>Teaching Assistant</em> — Plant Diversity and Ecology Lab, 20 students</span><span class="cv-date">Winter/Spring 2019, 2020</span></div>
+</div>
 
-- Plant Diveristy end Ecology Lecture and Lab (BIO 1114) 88 students — Fall 2026
-- Conservation Ecology Seminar (BIO 472) 6 students — Spring 2026
-- Introductory Botany Lab (BOT 121L) 24 students — Fall 2018, 2019
-- Plant Diversity and Ecology Lab (BIO 114L) 20 students — Winter 2019, 2020, Spring 2020
+<div class="cv-subhead">UC Davis</div>
+<div class="cv-rows">
+<div class="cv-row"><span><em>Teaching Assistant</em> — Angiosperm Systematics, 30 students</span><span class="cv-date">Spring 2024</span></div>
+<div class="cv-row"><span><em>Guest Lecturer</em> — Angiosperm Systematics</span><span class="cv-date">Spring 2024</span></div>
+<div class="cv-row"><span><em>Teaching Assistant</em> — California Floristics, 30 students</span><span class="cv-date">Spring 2021, 2022, 2023</span></div>
+<div class="cv-row"><span><em>Teaching Assistant</em> — Evolution of the Human Life Cycle, 20 students</span><span class="cv-date">Fall 2023</span></div>
+<div class="cv-row"><span><em>Teaching Assistant</em> — Environmental Plants, 20 students</span><span class="cv-date">Fall 2021</span></div>
+</div>
 
-**UC Davis**
+<div class="cv-subhead">UC Santa Cruz</div>
+<div class="cv-rows">
+<div class="cv-row"><span><em>Teaching Assistant</em> — Systematic Botany of Flowering Plants Lab, 25 students</span><span class="cv-date">Winter 2017</span></div>
+</div>
 
-- Angiosperm Systematics (PLS/PLB 127) 30 students — Spring 2024
-- California Floristics (PLB 102) 30 students — Spring 2021, 2022, 2023
-- Evolution of the Human Life Cycle (ANT 15) 20 students — Fall 2023
-- Environmental Plants (ENH 06) 20 students — Fall 2021
+### Peer-reviewed publications
 
+<p class="cv-note">Author name in bold; \* denotes an undergraduate co-author I mentored.</p>
 
-**UC Santa Cruz**
+<div class="cv-refs">
+**Kenny, R.**, & Potter, D. (in press). Gene flow blurs species boundaries in the *Juncus ensifolius–saximontanus* (Juncaceae) species complex. *Systematic Botany.*
 
-- Systematic Botany of Flowering Plants Lab (BIOE 117L) 25 students — Winter 2017
+**Kenny, R.**, Johns, J., Pawlak, C., Fricker, A., Yost, J. M., & Ritter, M. (2026). Urban trees and structure loss in the 2025 Eaton and Palisades fires. *Urban Forestry & Urban Greening.* [doi:10.1016/j.ufug.2026.129470](https://doi.org/10.1016/j.ufug.2026.129470) · [PDF](UFUG_Kenny_2026.pdf)
 
----
+**Kenny, R.**, Záveská Drábková, L., & Potter, D. (2026). Phylogenetic systematics of Juncaceae. *American Journal of Botany.* [doi:10.1002/ajb2.70166](https://doi.org/10.1002/ajb2.70166) · [PDF](American%20J%20of%20Botany%20-%202026%20-%20Kenny%20-%20Phylogenetic%20systematics%20of%20Juncaceae.pdf)
 
-### Mentoring
+McMahan, W., Escalona, M., **Kenny, R.**, Marimuthu, P., Nguyen, O., Fairbairn, C., Seligmann, W., Miller, C., Shaffer, H. B., Still, S., & Potter, D. (2025). A genome assembly of the California flannelbush, *Fremontodendron californicum*. *Journal of Heredity.* [doi:10.1093/jhered/esaf105](https://doi.org/10.1093/jhered/esaf105)
 
-*Projects conducted and presented by undergraduates (\*denotes undergraduate mentored)*
+**Kenny, R.**, McMahan, W., Ayres, D., Meyer, V., Grotkopp, E., Still, S., & Potter, D. (2025). Investigating putative hybrids of *Fremontodendron decumbens* and *F. californicum* in the Sierra foothills. *Madroño.* [doi:10.3120/0024-9637-250014](https://doi.org/10.3120/0024-9637-250014) · [PDF](Kenny_et_al_2025.pdf)
 
-T. Buchloh\*, S. Farrow\*, C. Dorion\*, R. Kenny, M. Ritter. J. Yost. 2019. Measuring and Monitoring the Vegetation of the Scott Creek Marsh. Northern California Botanists Symposium. Chico CA.
+**Kenny, R.**, West, J. A., Neubauer, D., Yost, J. M., Grossenbacher, D., & Ritter, M. (2023). A floristic study of Swanton Pacific Ranch, Santa Cruz County, California. *Madroño.* [doi:10.3120/0024-9637-69.2.139](https://doi.org/10.3120/0024-9637-69.2.139) · [PDF](Kenny%20et%20al%202023%20Floristic%20Study%20of%20Swanton%20Pacific%20Ranch.pdf)
 
-T. Buchloh\*, R. Kenny, M. Ritter, J. Yost. 2019. Scott Creek Marsh Vegetation Survey. Biology Frost Summer Research Symposium. San Luis Obispo CA.
+**Kenny, R.**, West, J. A., Johnson, H.\*, Yost, J. M., & Ritter, M. (2022). A new combination in *Sanicula crassicaulis* (Apiaceae). *Madroño.* [doi:10.3120/0024-9637-69.1.102](https://doi.org/10.3120/0024-9637-69.1.102) · [PDF](Kenny_et_al_2022.pdf)
+</div>
 
-H. Johnson\*, R. Kenny, M. Ritter, J. Yost. 2019. An Investigation of Speciation in *Sanicula crassicaulis*. Biology Frost Summer Research Symposium. San Luis Obispo CA.
+### Other publications and technical products
 
----
+<div class="cv-refs">
+**Kenny, R.** (2020). Book review: *Plants of Northern California: A Field Guide to Plants West of the Sierra Nevada*. *Madroño.* [doi:10.3120/0024-9637-67.1.61](https://doi.org/10.3120/0024-9637-67.1.61)
 
-### Relevant Coursework
+**Kenny, R.** (2023). *An introduction to mapping in R, continued.* Davis R Users Group tutorial. Spatial data handling and cartography in R. [d-rug.github.io/Intro_to_mapping_2/](https://d-rug.github.io/Intro_to_mapping_2/)
 
-*(\* indicates graduate course)*
+**Kenny, R.** (2023). *RStudio on FARM.* Davis R Users Group tutorial. Using RStudio on the UC Davis high-performance computing cluster. [d-rug.github.io/R-Studio-on-Farm/](https://d-rug.github.io/R-Studio-on-Farm/)
+</div>
 
-**UC Davis:** Ecological Genetics and Genomics\*, Issues in Conservation Biology\*, Conservation Genomics Seminar\*
+### Invited and outreach presentations
 
-**Cal Poly San Luis Obispo:** Molecular and Cellular Biology and Lab\*, Biogeography, Field Botany, Proposal Writing for Biological Research\*, Plant Anatomy and Lab, Applied Experimental Design\*, Population Biology\*, Advanced Leaf Morphology Seminar\*, Climate Change Impacts on Species Distributions Seminar\*
+<div class="cv-refs">
+**Kenny, R.** (2025). What a Rush: adventures in the systematics of Juncaceae. California Native Plant Society, San Luis Obispo Chapter, San Luis Obispo, CA.
 
-**UC Santa Cruz:** Systematic Botany and Lab, Ecology, GIS and Lab, Plant Ecology, Ecology and Conservation in Practice, Plant Physiology, Statistics for Biology and Lab, Soils and Plant Nutrition, Genetics
+**Kenny, R.** (2022). Systematics of Juncaceae. California Native Plant Society, Santa Clara Valley Chapter, virtual.
+
+**Kenny, R.**, Ritter, M., & Yost, J. M. (2019). A floristic study of Halter Ranch. California Native Plant Society, San Luis Obispo Chapter, San Luis Obispo, CA.
+</div>
+
+### Contributed presentations and posters
+
+<div class="cv-refs">
+**Kenny, R.**, Yost, J. M., & Ritter, M. (2025). Online tools for every arborist and urban forester. Partners in Urban Forestry, Henderson, NV. (talk)
+
+**Kenny, R.**, & Potter, D. (2024). Gene flow blurs species boundaries in the *Juncus ensifolius–saximontanus* (Juncaceae) species complex. California Botanical Society Graduate Research Symposium, San Luis Obispo, CA. (talk)
+
+**Kenny, R.**, McMahan, W., Ayres, D., Meyer, V., Grotkopp, E., Still, S., & Potter, D. (2024). Investigating putative hybrids of *Fremontodendron decumbens* and *F. californicum* in the Sierra foothills. Northern California Botanists Symposium, Chico, CA. (talk)
+
+**Kenny, R.**, Záveská Drábková, L., & Potter, D. (2024). Systematics of Juncaceae: phylogenetic relationships inferred from Hyb-Seq data. International Botanical Congress, Madrid, Spain. (poster)
+
+**Kenny, R.** (2022). Phylogenetics of Juncaceae. California Native Plant Society Conservation Conference, San Jose, CA. (talk)
+
+Hazelquist, C., Guilliams, C. M., Hasenstab-Lehman, K., **Kenny, R.**, & Boes, W. (2021). Using high-throughput DNA sequence data to infer the phylogeny of *Lewisia* (Montiaceae) and evaluate a potentially new species from the Sierra Nevada foothills. Southern California Botanists Symposium, virtual. (poster)
+
+**Kenny, R.**, Ritter, M., & Yost, J. M. (2019). Traversing Swanton: a multigenerational floristic study of the Cal Poly Swanton Pacific Ranch. California Botanical Society Student Symposium, San Luis Obispo, CA. (talk)
+
+**Kenny, R.**, & Loik, M. (2017). Summer root and soil water distribution under annual grasses and *Stipa pulchra*. Northern California Botanists Symposium, Chico, CA. (poster)
+</div>
+
+### Undergraduate research mentored
+
+<div class="cv-entry">
+<div class="cv-head"><span class="cv-role">Rowan Campbell (ENVM)</span><span class="cv-date">Summer 2026</span></div>
+
+- Cascades frog surveys in the Klamath Mountains in conjunction with CDFW.
+- PIT-tagged frogs and collected health data.
+- Removed invasive trout.
+- Shared data collected with Survey123.
+
+</div>
+
+<div class="cv-entry">
+<div class="cv-head"><span class="cv-role">Rylyn Jaggar (CRP) &amp; Rylie Helburg (ENVM)</span><span class="cv-date">Summer 2026</span></div>
+
+- Impacts of fuels treatments on biodiversity at Bearpaw Preserve.
+- Ran a network of 10 camera traps and managed the data.
+- Conducted plant quadrat and line-intercept surveys.
+- Conducted bird point-count surveys.
+
+</div>
+
+<div class="cv-entry">
+<div class="cv-head"><span class="cv-role">Landon Miller (BIO)</span><span class="cv-date">Summer 2026</span></div>
+
+- Beaver dam analog meadow restoration effects on mammal biodiversity with the Scott River Watershed Council.
+- Collected camera trap data before and after meadow restoration.
+- Analyzed camera data.
+
+</div>
+
+<div class="cv-entry">
+<div class="cv-head"><span class="cv-role">Santiago Olvera (EESS)</span><span class="cv-date">Summer 2026</span></div>
+
+- Baseline report for a new conservation property with the Land Conservancy of SLO County.
+- Collected photo and GIS data on roads, structures, and vegetation.
+- Developed GIS maps.
+- Compiled data into a technical report.
+
+</div>
+
+<div class="cv-entry">
+<div class="cv-head"><span class="cv-role">Finn Torres (BIO) &amp; Natalie Donnelson (ENVM)</span><span class="cv-date">Summer 2026</span></div>
+
+- Rangeland monitoring for long-term analysis of virtual fencing impacts at Rana Creek Preserve.
+- Collected baseline rangeland samples for fuel analyses.
+- GIS analyses and field data collection for siting beaver dam analog restoration.
+
+</div>
+
+<div class="cv-entry">
+<div class="cv-head"><span class="cv-role">Thomas Buchloh (BIO), Sam Farrow (BIO) &amp; Celeste Dorion (BIO)</span><span class="cv-date">Summer 2019</span></div>
+
+- Swanton Ranch Summer Internship: measuring and monitoring the vegetation of the Scott Creek Marsh; lived at Swanton for the summer.
+- Conducted vegetation transects to create a GIS map of all marsh plants ahead of Caltrans creek restoration under Highway 1.
+- Used drones to conduct spectral analyses.
+- Presented the work at the Northern California Botanists Symposium, Chico, CA.
+
+</div>
+
+<div class="cv-entry">
+<div class="cv-head"><span class="cv-role">Hunter Johnson (BIO)</span><span class="cv-date">Summer 2019</span></div>
+
+- An investigation of speciation at Swanton Pacific Ranch in *Sanicula crassicaulis*.
+- Collected plant morphometric data.
+- Co-authored the resulting publication (*Madroño*, 2022).
+
+</div>
+
+### External funding
+
+<span class="cv-total">Research and program funding secured: $263,486</span>
+
+<div class="cv-subhead">Program and industry funding</div>
+<div class="cv-rows">
+<div class="cv-row"><span>Halter Ranch Conservation Scholars Program donation ($252,631)</span><span class="cv-date">2025</span></div>
+</div>
+
+Gift from the Halter Ranch Foundation to Cal Poly; funds program operations, student stipends, and the program director position for two years. Support likely to be ongoing.
+
+<div class="cv-subhead">Competitive research grants</div>
+<div class="cv-rows">
+<div class="cv-row"><span>UC Davis Jastro–Shields Research Award ($1,995)</span><span class="cv-date">2024</span></div>
+<div class="cv-row"><span>UC Davis Jastro–Shields Research Award ($3,000)</span><span class="cv-date">2022</span></div>
+<div class="cv-row"><span>California Native Plant Society, Santa Clara Valley Chapter Research Award ($1,500)</span><span class="cv-date">2022</span></div>
+<div class="cv-row"><span>Davis Botanical Society Research Grant ($2,760)</span><span class="cv-date">2021</span></div>
+<div class="cv-row"><span>Northern California Botanists Research Grant ($1,000)</span><span class="cv-date">2021</span></div>
+<div class="cv-row"><span>California Native Plant Society Research Grant ($600)</span><span class="cv-date">2021</span></div>
+</div>
+
+### Fellowships, scholarships, and awards
+
+<span class="cv-total">Total: $134,222</span>
+
+<div class="cv-rows">
+<div class="cv-row"><span>UC Davis Plant Sciences Graduate Fellowship ($70,000)</span><span class="cv-date">2020</span></div>
+<div class="cv-row"><span>UC Davis Ecology Graduate Group Fellowship ($50,722)</span><span class="cv-date">2020</span></div>
+<div class="cv-row"><span>David and Frieda Wertmann Scholarship, Cal Poly San Luis Obispo ($11,000)</span><span class="cv-date">2019</span></div>
+<div class="cv-row"><span>California Native Plant Society, San Luis Obispo Chapter, McLeod Scholarship ($500)</span><span class="cv-date">2019</span></div>
+<div class="cv-row"><span>Koret Undergraduate Research Scholarship, UC Santa Cruz ($2,000)</span><span class="cv-date">2017</span></div>
+<div class="cv-row"><span>Highest Honors in the Major, UC Santa Cruz Plant Sciences</span><span class="cv-date">2017</span></div>
+</div>
+
+### Technical and research expertise
+
+<div class="cv-skill">
+<span class="cv-skill-name">Landscape-scale spatial analysis.</span> R, Python, Google Earth Engine, and ArcGIS Pro pipelines for processing remote sensing and other spatial data at landscape and statewide extents; statistical treatment of spatial autocorrelation and interpolation of discrete data sources.
+</div>
+
+<div class="cv-skill">
+<span class="cv-skill-name">Biophysical modeling.</span> Large-scale modeling of biophysical processes, including wind velocity using NOAA's High-Resolution Rapid Refresh atmospheric model with WindNinja, and streamflow using high-resolution digital elevation models and hydrologic models implemented in R.
+</div>
+
+<div class="cv-skill">
+<span class="cv-skill-name">Biological inventory and monitoring.</span> Design and implementation of field data collection and processing for inventory and monitoring: mobile data platforms in Esri Field Maps and Survey123; rare and invasive plant mapping; meadow and rangeland monitoring design; herbarium voucher collection and curation; iNaturalist projects for crowdsourced data; camera trapping and AI-assisted identification (Addax AI, Wildlife Insights).
+</div>
+
+<div class="cv-skill">
+<span class="cv-skill-name">Data science and computing.</span> High-performance computing clusters and parallel processing; analysis of biodiversity datasets of millions of records to produce diversity statistics, range maps, and species interaction networks; reproducible workflows in R and Python, version control with Git.
+</div>
+
+<div class="cv-skill">
+<span class="cv-skill-name">Genomics and bioinformatics.</span> Target capture, RAD-seq, and whole-genome resequencing analysis in HPC environments; phylogenomic and population genomic inference, species delimitation, and hybridization analysis.
+</div>
+
+### Service and outreach
+
+- Developed and presented two open-access computational tutorials for the Davis R Users Group (2023).
+- Recurring speaker for California Native Plant Society chapters (San Luis Obispo 2019; Santa Clara Valley 2022; San Luis Obispo 2025) and for practitioner audiences at Partners in Urban Forestry (2025).
+- Designed and administer the HARCS Symposium, an annual research symposium hosted by an industry partner in Paso Robles, CA.
+- Reviewer for *Madroño* (1 manuscript) and the *Journal of the Botanical Research Institute of Texas* (1 manuscript).
+
+### References
+
+Dr. Dan Potter (Ph.D. advisor), Professor, Department of Plant Sciences, University of California, Davis · Dr. Matt Ritter (M.S. advisor), Professor, Department of Biological Sciences, Cal Poly San Luis Obispo · Frazier Haney (HARCS program partner), Executive Director, The Wildlands Conservancy.
+
+Contact details available on request, or in the [full CV PDF](ReedKennyCV.pdf).
