@@ -13,7 +13,7 @@ output:
 </div>
 <div class="home-right">
 
-I am currently the Program Coordinator for the newly created Cal Poly San Luis Obispo Halter Ranch Conservation Scholars program and am finishing a postdoctoral researcher position at the Urban Forest Institute. I am broadly interested in biodiversity and natural resource conservation. This is reflected in my research, which includes cataloging plant diversity on working lands, classifying species, and studying the impacts of fire on urban forests. I earned a Master's degree at Cal Poly San Luis Obispo studying the floristics of the central California coast and a Ph.D. at the University of California Davis in the Ecology program, where I studied species relationships in the Juncaceae (Rush family).
+I am currently the Director of the Cal Poly San Luis Obispo Halter Ranch Conservation Scholars program as well as a lecturer in the Biology Department at Cal Poly. I am broadly interested in biodiversity and natural resource conservation. This is reflected in my research, which includes cataloging plant diversity on working lands, classifying species, and studying the impacts of fire on urban forests. I earned a Master's degree at Cal Poly San Luis Obispo studying the floristics of the central California coast and a Ph.D. at the University of California Davis in the Ecology program, where I studied species relationships in the Juncaceae (Rush family).
 
 </div>
 </div>
