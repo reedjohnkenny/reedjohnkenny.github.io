@@ -44,20 +44,20 @@ No prior research experience is required. Scholars come from biology, environmen
 ```{=html}
 <div class="harcs-stats">
   <div class="harcs-stat">
-    <div class="harcs-stat-number">128,548</div>
+    <div class="harcs-stat-number">184,565</div>
     <div class="harcs-stat-label">Camera trap photos</div>
   </div>
   <div class="harcs-stat">
-    <div class="harcs-stat-number">174</div>
+    <div class="harcs-stat-number">210</div>
     <div class="harcs-stat-label">Species observed</div>
   </div>
   <div class="harcs-stat">
-    <div class="harcs-stat-number">342</div>
-    <div class="harcs-stat-label">iNaturalist observations</div>
+    <div class="harcs-stat-number">9,641</div>
+    <div class="harcs-stat-label">Animal detections</div>
   </div>
   <div class="harcs-stat">
-    <div class="harcs-stat-number">65</div>
-    <div class="harcs-stat-label">Pages of field notes</div>
+    <div class="harcs-stat-number">118</div>
+    <div class="harcs-stat-label">Days in the field</div>
   </div>
 </div>
 <p class="harcs-stats-note"> 2026 Cohort to date.</p>
