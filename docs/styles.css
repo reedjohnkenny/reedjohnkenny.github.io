@@ -175,6 +175,34 @@ hr {
   }
 }
 
+/* HARCS Instagram link */
+.harcs-instagram {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin: 4px 0 16px;
+  padding: 6px 14px 6px 10px;
+  border: 1px solid #d9e4d9;
+  border-radius: 999px;
+  color: #2c5f2d;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.harcs-instagram:hover,
+.harcs-instagram:focus {
+  background: #f1f6f1;
+  color: #2c5f2d;
+  text-decoration: none;
+}
+
+.harcs-instagram svg {
+  width: 20px;
+  height: 20px;
+  fill: currentColor;
+  flex-shrink: 0;
+}
+
 /* HARCS current projects cards */
 .harcs-project {
   background: #f7f7f5;
