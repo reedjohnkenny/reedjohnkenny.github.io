@@ -10,10 +10,9 @@ navbar:
       href: Teaching.html
     - text: "CV"
       href: CV.html
-    - text: "HARCS"
-      href: HARCS.html
       
 exclude:
+  - archive
   - research_photos
   - Reed_photos
   - "*.Rproj"

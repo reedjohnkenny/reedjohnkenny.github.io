@@ -30,7 +30,7 @@ I am currently the Director of the Cal Poly San Luis Obispo Halter Ranch Conserv
 <a href="mailto:rekenny@calpoly.edu">rekenny@calpoly.edu</a>
 <a href="CV.html">CV</a>
 <a href="Research.html">Research</a>
-<a href="HARCS.html">HARCS program</a>
+<a href="https://bailey.calpoly.edu/research/undergraduate-research/halter-ranch-conservation-scholars">HARCS program</a>
 <a href="https://orcid.org/0000-0002-1234-8413">ORCID</a>
 <!-- <a href="https://scholar.google.com/citations?user=YOUR_ID">Google Scholar</a> -->
 <!-- <a href="https://www.inaturalist.org/people/YOUR_HANDLE">iNaturalist</a> -->

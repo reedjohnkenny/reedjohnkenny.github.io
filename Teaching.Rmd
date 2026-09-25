@@ -13,7 +13,7 @@ title: "Teaching"
 
 <div class="figure-section-text">
 
-I am currently the Director of the Cal Poly Slo Halter Ranch Conservation Scholars (HARCS) program. This is our inaugural year, and we have placed seven students in summer conservation and stewardship internships with our conservation partners. In preparation, I led those students in a quarter long seminar focused on developing conservation oriented skills such as GIS as well as understanding the fundamentals of conservation and ecology through field based activities. See the HARCS page of this website for more information and photos from the field.
+I am currently the Director of the Cal Poly Slo Halter Ranch Conservation Scholars (HARCS) program. This is our inaugural year, and we have placed seven students in summer conservation and stewardship internships with our conservation partners. In preparation, I led those students in a quarter long seminar focused on developing conservation oriented skills such as GIS as well as understanding the fundamentals of conservation and ecology through field based activities. More information about the program is available on the [HARCS page](https://bailey.calpoly.edu/research/undergraduate-research/halter-ranch-conservation-scholars) of the Cal Poly Bailey College of Science and Mathematics website.
 
 </div>
 :::
